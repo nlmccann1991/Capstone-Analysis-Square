@@ -1,4 +1,8 @@
 # Capstone-Analysis-Square
+Download and run the python and HTML files for Dream Team's Capstone project here. 
+
+I recommend downloading the HTML file and then accessing it via a Chromium browser (this includes, but isn't limited to, Google Chrome, Microsoft Edge, and Brave)
+
 This is a landscape analysis of Startup Funding plus interest in the Payments industry.
 
 StartUp Investments (Crunchbase): https://www.kaggle.com/arindam235/startup-investments-crunchbase
